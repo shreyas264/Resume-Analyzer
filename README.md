@@ -7,6 +7,7 @@ AI-assisted resume analyzer built with a React (Vite) frontend, Node/Express bac
 - Node.js 18+
 - MongoDB instance (Atlas or local)
 - Google Gemini API key
+- pdf-parse version 1
 
 ## Setup
 

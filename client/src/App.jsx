@@ -1,6 +1,8 @@
 import { useState } from 'react';
 
-const API_BASE = 'https://resume-analyzer-phbc.onrender.com';
+
+const API_BASE =  'https://resume-analyzer-phbc.onrender.com';
+
 
 function App() {
   const [name, setName] = useState('');
